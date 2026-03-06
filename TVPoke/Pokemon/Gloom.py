@@ -9,4 +9,4 @@ class Gloom(Grass, Poison):
             Move("Poison Powder", "POISON", 80),
             Move("Acid", "POISON", 60)
         ]
-        super().__init__("Gloom", 140, moves, "./TVPoke/Pokemon/imgs/Feraligatr.png")
+        super().__init__("Gloom", 140, moves, "./TVPoke/Pokemon/imgs/Gloom.png")
